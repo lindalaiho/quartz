@@ -1,0 +1,13 @@
+[[Corticotrophs form adherens junctions]] using N-cadherin.
+
+It is interesting that the corticotroph network is the first to form during development and therefore the other cell type networks might be dependent on the corticotrophs for proper formation. It might act as a scaffold or perhaps produce paracrine factors that affect how the other networks form.
+
+Protrusions from different endocrine cells can form junctions with protrusions from other endocrine cells [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2109609/)
+
+"Synaptoid contacts" (look like synapses) have been found between cortictrophs in the dog (see Zhang 1992 in downloads), also between corticotrophs and lactotrophs in the rat although they are rare [Liu 1998](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0185(199806)251:2%3C181::AID-AR5%3E3.0.CO;2-1), this would suggest a clear directionality in communication exists
+
+Corticotrophs may express GAP-43 (neuromodulin) on their processes to form connections with other cell types after ADX, the processes form synapse-like connections with other cells [here](https://academic.oup.com/endo/article/147/2/952/2500674?login=true)
+
+Evidence that protrusions are actually involved in signalling in the study [here](https://academic.oup.com/endo/article/147/2/952/2500674?login=true): "The occasional synaptic-like contacts that we observed between corticotroph processes containing GAP-43 and other gland cells suggests that these processes are involved in intercellular communication within the AP and are not simply sites of hormone release into the vasculature." note that these processes also appear to form between the corticotrophs themselves. But why would we need to form these if they form networks just via cell body contact?
+
+NCAMs are expressed especially in corticotrophs and somatotrophs [Berardi 1995](https://link.springer.com/article/10.1007/BF00307820), PSA-NCAM especially in corticotrophs and KO of NCAM leads to fewer corticotrophs (but more somatotrophs) [Gubkina 2001](https://www.karger.com/Article/FullText/54700). So note that PSA-NCAM might be a specific molecule for corticotrophs while other cell types still use general NCAM so specificity might be more subtle than straight gene expression e.g. these changes in PTMs of cell adhesion molecules. Although these results suggest that NCAM might not mediate adhesion of the cell types but rather differentiation or cell survival as number of cells were changed but spatial organisation not so much.

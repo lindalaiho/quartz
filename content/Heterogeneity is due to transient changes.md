@@ -1,0 +1,2 @@
+### Support in favour
+- [Castano 1994](https://doi.org/10.1210/endo.135.5.7956898) monitored prolactin release from individual rat cells over 4 days using a modified plaque assay and showed that the cells released very variable amounts of prolactin with time in a manner that depended on sex

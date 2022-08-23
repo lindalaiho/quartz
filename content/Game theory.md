@@ -1,0 +1,1 @@
+Game theory could be applied to analyse interactions between pituitary cells - whether to cooperate or defect i.e. act independently

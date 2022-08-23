@@ -1,0 +1,9 @@
+ In the pancreas there are cells that act as coordinators/initiators of paracrine responses
+ 
+ Was there some evidence that these hub cells exist in terms of prolactin transcription?
+ 
+ According to [Yoshitomi 2016](https://doi.org/10.1038/srep36019) 30% of anterior pituitary cells are not physically in contact with the vasculature. Might these cells have a function as "hub" cells? Paper shows that the secretory granules in these cells are more cytoplasmic (as in not near the membrane, perhaps more in storage than ready to be secreted?) compared to the granules in the cells near the vasculature. Authors suggest these distant cells also secrete hormones but those diffuse so provide a slower and smoother secretion pattern of hormone. Couldn't they do both? All cells can be endocrine and paracrine but perhaps cells closer to vessels specialize in hormone secretion whereas cells further from vessels specialize in secretion of paracrine factors as they have more interstitial space nearby (a waste to secrete paracrine factors to blood vessels). This would make sense if we assume that cells have a limit for how much secretion they can do. Allocating resources towards making hormone and making paracrine factors needs to be controlled somehow (although making paracrine factors might not require that many resources). ^443c05
+ 
+ It might be relevant that [[Melanotrophs have a subpopulation of cells that store hormone]]
+
+ There are lactotrophs that act as "pacemakers" in terms of coordinating nearby cells, presumably via gap junctions [Le Tissier 2018](https://doi.org/10.1210/en.2018-00508)

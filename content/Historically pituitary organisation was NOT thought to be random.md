@@ -1,0 +1,2 @@
+### Evidence
+- Quote from [Denef 1986](https://doi.org/10.1016/S0300-595X(86)80040-8): "The topographical distribution of pituitary cell types is not random". In the review article, here presents paragraph upon paragraph of evidence for different topographical affinities and for differential distribution of cell types within the gland.

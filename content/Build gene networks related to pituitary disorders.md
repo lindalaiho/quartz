@@ -1,0 +1,3 @@
+Inspiration: image 2.10 in [Barabasi 2016](http://networksciencebook.com/)
+
+We can build a *bipartite network* where nodes are genes and they are connected if they are associated with the same disease (pituitary disorder). Alternatively, the pituitary disorders are nodes and they are linked if they share causative/associative genes. Link thickness can indicate extent of sharedness and size of node how common it is.

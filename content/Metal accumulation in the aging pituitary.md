@@ -1,0 +1,1 @@
+Iron accumulates in the aging human pituitary gland by vessels in the same place where fibrosis also overcomes the gland but then the iron deposits disappear by the 9th decade of life??? Author suggests that the iron accumulation may be a driver for the [[Increased fibrosis in aging pituitaries]] [Greenberg 1975](https://doi.org/10.1093/geronj/30.5.531)

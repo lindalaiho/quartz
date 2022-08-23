@@ -1,0 +1,1 @@
+Has been claimed in [Schwartz 1996](https://doi.org/10.1016/0303-7207(96)03898-1) that somatotrophs were the first to be described as functionally heterogeneous in [Hopkins 1973](https://doi.org/10.1083/jcb.59.2.276)

@@ -1,0 +1,1 @@
+It's been said that we are the average of the 3 (or something) people we interact with - perhaps we could extend that to pituitary cells?

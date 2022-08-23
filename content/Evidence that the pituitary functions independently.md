@@ -1,0 +1,1 @@
+Pituitary LH output does not always reflect GnRH input [Moenter 2015](https://doi.org/10.1159/000438790, also see [Perez-Castro 2012](https://doi.org/10.1152/physrev.00003.2011) for evidence that FSH might be under more paracrine regulation than LH

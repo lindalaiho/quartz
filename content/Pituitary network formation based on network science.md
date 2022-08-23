@@ -1,0 +1,1 @@
+Why this is important: "to understand the topology of a complex system, we need to describe how it came into being" [Barabasi 2016](http://networksciencebook.com/)

@@ -1,0 +1,6 @@
+### Technical reasons
+- Differences in sequencing depth might explain why some marker genes are good markers in one dataset but are absent/not expressed in another dataset
+- "It may be that the extent of β-cell heterogeneity is so great that the human β-cell scRNA-Seq studies to date have effectively undersampled this heterogeneity. The alternative explanation is that the detection of variation in gene expression across single β-cells is dominated by noise resulting from operating at or below the limit of detection of gene expression in single-cell expression, causing false negatives to dominate the list of heterogeneously detected β-cell genes. Moreover, the short list of heterogeneously detected genes in β-cells was notably lacking genes encoding proteins known to demonstrate heterogeneous expression patterns among β-cells (e.g., NPY, TH, UCN3, DKK3). This raises the question whether scRNA-Seq approaches were able to accurately detect expression of established markers of heterogeneity among β-cells." The authors also provide evidence that single cells show very heterogeneous detection of genes. [Mawla 2019](https://doi.org/10.2337/dbi18-0019)
+
+### Biological reasons
+The vasculature might be responsible for the heterogeneity :)

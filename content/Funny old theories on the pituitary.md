@@ -1,0 +1,1 @@
+The pituitary represented the uterus of a king crab. It was essentially thought to be a vestigial structure just left over because humans and king crabs came from a common ancestor and humans had just evolved a different kind of uterus. [McWhan 1931](https://era.ed.ac.uk/handle/1842/35297)

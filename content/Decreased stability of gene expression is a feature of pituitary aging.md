@@ -1,0 +1,1 @@
+We get a massive increase of lactosomatotrophs with aging [[Changes in pituitary cell numbers with age#Multihormonal cells]] so perhaps this is due to deterioration of gene expression control as suggested by [Shinkai 1995](https://doi.org/10.1016/0047-6374(95)01614-6)?

@@ -1,0 +1,5 @@
+If you mixed eg fish and human corticotrophs and observed how they reaggregate you would be able to tell if they use the same CAMs? So if they are the same we would get intermixing but if the are very different then we get separate balls of cells. Could also be done by eg mixing mouse and rat corticotrophs
+
+Can we say that gonadotrophs have the highest homotypic adhesion strength since they sort into the centre in the aggregates? But it might also be that eg thyrotrophs have v high homotypic adhesion strength but they are too few to encounter each other and therefore aggregate internally
+
+Corticotrophs and thyrotrophs don’t form clear circles in aggregates bc there are so few of them and they therefore rarely encounter cells of their own type which they preferentially adhere to so they don’t form clear rings/clusters

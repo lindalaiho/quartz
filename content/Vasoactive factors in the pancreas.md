@@ -1,0 +1,3 @@
+Angiotensin II caused vasoconstriction (and angII receptor type 1 blocker reversed it), decreased endothelial volume in islets and decreased insulin secretion in the mouse. It is unclear whether the insulin result was due to direct effects of AngII on beta cells or indirect via altered blood flow. [Ihoriya 2013](https://doi.org/10.1111/micc.12094)
+
+In human pancreas tissue slices, endothelins cause vasoconstriction where capillaries constrict before the arteriole [Goncalves 2021](https://doi.org/10.3389/fendo.2020.602519)

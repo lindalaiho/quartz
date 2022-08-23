@@ -1,0 +1,1 @@
+"Most research in islet biology, however, focuses on the insulin-secreting beta cell. This narrow view is oblivious to the fact that *pathologies in nearly every organ system are caused by, or reflect, dysfunction or destruction of the microenvironment’s integrity*." [Almaca 2020](https://doi.org/10.1007/s00125-020-05186-5)

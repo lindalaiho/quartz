@@ -1,0 +1,3 @@
+### Evidence
+- Based on ER-Ca and cytosolic Ca measurements in acute pituitary slices and intact glands, cells are responsive to several hypothalamic factors e.g. many cells that responded to CRH also reponded to TRH and LHRH [Rojo-Ruiz 2021](https://doi.org/10.3389/fendo.2020.615777)
+- GH receptor mRNA expressing cells in pituitaries from 2-month-old male mice were IR to GH but also some were IR to PRL and FSHb. No GHR mRNA +ve cells were IR to ACTH, LHb or TSHb. [Honda 2003](https://doi.org/10.1677/joe.0.1780071)

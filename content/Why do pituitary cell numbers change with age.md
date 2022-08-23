@@ -1,0 +1,2 @@
+Why do so many lactosomatotrophs form with aging? [Shinkai 1995](https://doi.org/10.1016/0047-6374(95)01614-6)
+- They might form from somatotrophs since the number of lactosomatotrophs increased while the sum of lactotrophs and somatotrophs did not change with age

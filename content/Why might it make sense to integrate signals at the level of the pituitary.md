@@ -1,0 +1,4 @@
+Are there advantages to have signals converge at the pituitary level instead of e.g. end organ or hypothalamus/brain?
+
+Evidence that the pituitary is an important site:
+- Expression of CRH binding protein is sexually dimorphic in the pituitary and is regulated by stage of oestrus cycle, the availability of CRH binding protein regulates ACTH and GC responses. Note that expression is also in lactotrophs and gonadotrophs which suggests that CRH/stress axis may interact with other axes in the pituitary [Speert 2002](https://doi.org/10.1210/en.2002-220556) -> paracrine interactions are not the only way to modulate function but modulation via e.g. binding proteins or degradation enzymes is also important

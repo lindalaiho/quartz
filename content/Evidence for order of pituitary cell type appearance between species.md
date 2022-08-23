@@ -1,0 +1,3 @@
+[Saga 2006](https://www.alliedacademies.org/articles/a-comparative-study-of-the-chronological-appearance-of-adenohypophysial-cells-in-vertebrates-with-emphasis-on-the-japanese-softshe.html) presented evidence from different vertebrates that even closely related species vary hugely in the order that different pituitary endocrine cell types appear in
+
+A study in humans showed that GH, TSH and FSH but no other hormones were present at week 9. Weeks 9-23 PRL appears and week 30 is when MSH and ACTH appear. [Reyes 2008](https://doi.org/10.1111/j.1469-7580.2008.00906.x) So PRL appears before ACTH??? The authors suggest that their antibody is superior.

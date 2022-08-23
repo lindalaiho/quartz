@@ -1,0 +1,3 @@
+As explained in [Barabasi 2016](http://networksciencebook.com/, scale-free networks with γ < 2 do not exist since the largest hub grows faster than the total number of nodes in the network *assuming no multi-links*
+
+The [Hodson 2012](https://doi.org/10.1038/ncomms1612) paper says that the lactotroph network has γ ~ 1 so does it follow that in the lactotroph network, cells must be able to connect via multiple links?

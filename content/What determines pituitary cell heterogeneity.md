@@ -1,0 +1,2 @@
+#### Evidence for something cell-intrinsic
+- [Castano 1996](https://doi.org/10.1210/mend.10.5.8732690) show that prolactin gene expression in single cells can vary a lot over time in the absence of external cues

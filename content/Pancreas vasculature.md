@@ -1,0 +1,5 @@
+[[Aging targets the pancreatic vasculature]]
+[[Pancreatic vasculature is altered by challenge]]
+[[Vasoactive factors in the pancreas]]
+[[Directionality of blood flow in the pancreas]]
+[[Pancreatic pericytes]]

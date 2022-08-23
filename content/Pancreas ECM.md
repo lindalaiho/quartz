@@ -1,0 +1,3 @@
+Integrin b1 is enriched at sites in the vascular basement membrane that contact beta cells. The activation of focal adhesions at the site targets insulin granule fusion to the vasculature. [Jun Gan 2018](https://doi.org/10.1016/j.celrep.2018.08.035)
+
+Note that it is endothelial cells, not beta cells that make a basement membrane in the pancreas and beta cells then signal via VEGF-A to attract endothelial cells to make the basement membrane next to the cells. Laminins in the basement membrane also promote insulin gene expression and cell proliferation in beta cells by interacting with b1-integrin on beta cells. [Nikolova 2006](https://doi.org/10.1016/j.devcel.2006.01.015)

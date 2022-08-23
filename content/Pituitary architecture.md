@@ -1,0 +1,5 @@
+[[Historically pituitary organisation was NOT thought to be random]]
+[[Sex differences in pituitary networks]]
+[[Pituitary ECM]]
+[[Differential adhesion hypothesis in relation to the pituitary]]
+[[Homotypic pituitary cell networks]]

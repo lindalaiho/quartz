@@ -1,0 +1,3 @@
+It makes sense that mitochondria may be involved in creating local Ca environments since they can move around and sense things and then locally increase energy or Ca based on needs
+
+[[Corticotroph excitability|Since the electrical activity seen in corticotrophs in chronic stress and/or in response to CRH could be explained by clustering of BK channels and L-type calcium channels]], perhaps mitochondria are involved?

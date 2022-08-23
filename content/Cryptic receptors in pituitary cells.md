@@ -1,0 +1,3 @@
+Cryptic GnRH receptors exist in gonadotrophs [Leblanc 1997](https://doi.org/10.1210/endo.138.2.4923) which can be unmasked by paracrine EGF, NPY, PKC activation, castration (!), homogenization of cells (suggesting, perhaps, that something in intact cells such as the cytoskeleton keeps the receptors cryptic) and lowered temperature.
+
+The temperature dependence is curious. Lower temperatures of 0.5 to 4C unmasks receptors while 21C incubation keeps them cryptic.

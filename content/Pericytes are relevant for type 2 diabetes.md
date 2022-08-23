@@ -1,0 +1,1 @@
+The number of pericytes declines in diabetes [Almaca 2018](https://doi.org/10.1016/j.cmet.2018.02.016)

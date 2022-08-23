@@ -1,0 +1,1 @@
+In [Childs 1987](https://doi.org/10.1111/j.1749-6632.1987.tb24965.x) there is the observation that "Mitochondria tend to be prominent, especially after stimulation." ---> does this mean that mitochondria participate in ACTH secretion?

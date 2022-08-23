@@ -1,0 +1,1 @@
+The pituitary is often described as a clear-cut simple organ consisting of certain cell types with distinct roles in reproduction, metabolism, stress etc. But this is far from the truth.

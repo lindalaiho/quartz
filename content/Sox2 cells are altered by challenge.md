@@ -1,0 +1,3 @@
+### Endocrine disruption
+- BPA treatment during pregnancy in rats led to pups at P1 with significantly more FS cells in the pituitary (ID'd by aldolase C since they found no S100b +ve cells) [Sanannam 2021](https://doi.org/10.3390/ijms222312667)
+- BPA treatment of mice during pregnancy (E10.5 to E18.5) led to more Sox2 cells that proliferated compared to control in P1 pup pituitaries (but no actual quantification done). Since gonadotroph numbers increased, they suggested that the Sox2 cells become gonadotrophs. [Brannick 2012](https://doi.org/10.1095/biolreprod.112.100636)

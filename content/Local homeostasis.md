@@ -1,0 +1,1 @@
+This concept has been especially studied in neuroscience in terms of local inhibitory/excitatory balance e.g. [here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005721) and in the [skin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3422784/) which has local HPA/HPT/serotonergic/cholinergic systems as well

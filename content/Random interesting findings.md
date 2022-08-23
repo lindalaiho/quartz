@@ -1,0 +1,1 @@
+Various ligands (e.g. EGF) have nuclear binding sites that differ from binding sites on the receptor and these ligands can regulate nuclear translocation of mRNAs [Schindler 1987](https://doi.org/10.1083/jcb.104.4.849)

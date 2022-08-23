@@ -1,0 +1,10 @@
+[[Challenges that we face when trying to understand pituitary paracrine regulation]]
+[[How do we make sense of the bewildering array of paracrine interactions]]
+[[What is the fundamental purpose of paracrine regulation of the pituitary]]
+[[Cell-cell adhesion and communication work together]]
+[[Different ways of regulating pituitary cell function]]
+[[Evidence for multimodal communication in the pituitary]]
+
+[[Interesting open questions]]
+[[Terminology for addressing the pituitary as a whole gland]]
+[[Why might it make sense to integrate signals at the level of the pituitary]]

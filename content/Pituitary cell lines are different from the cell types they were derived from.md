@@ -1,0 +1,1 @@
+In alphaT3-1 gonadotrophs, GnRH stimulated a concentration-dependent increase in expression of c-fos, c-jun and junB mRNA [Cesnjaj 1994](https://doi.org/10.1210/endo.135.2.7518388) but GnRH could not stimulate c-fos in gonadotrophs from female rats (although it might be bc these were proestrus) [Armstrong 1998](https://doi.org/10.1177%2F002215549804600807)

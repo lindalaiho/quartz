@@ -1,0 +1,1 @@
+How do we verify that the transcriptionally identified subclusters are not just random fluctuations in gene expression? -> **Orthogonal validation** i.e. using other data modalities to determine if the transcriptome-based subtypes also correlate with other....stuff

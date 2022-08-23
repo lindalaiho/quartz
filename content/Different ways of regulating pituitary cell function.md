@@ -1,0 +1,3 @@
+Role of gap junctions
+- "Gap junction-mediated and paracrine communication are likely complementary where gap junctions provide hightly spatially focused and fast communication whereas paracrine communication is slower and more widely distributed" [unknown source]
+- Could it be that gap junction communication is more important for regulating hormone output patterning bc studies using gap junction blockers have shown several fold reduced output e.g. 22 in [Santiago-Andres 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7873642/) but paracrine communication might be more important for large-scale and long-term maintentance of pituitary organization e.g. in terms of regulating cell survival or something?

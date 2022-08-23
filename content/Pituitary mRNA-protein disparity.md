@@ -1,0 +1,7 @@
+Evidence that mRNA is not always correlated to protein in the pituitary: [Akhter 2014](https://academic.oup.com/endo/article/155/10/4027/2423591?login=true) leptin's effects on GnRHR might be on PTM level bc didn't alter mRNA yet protein was changed, as discussed in [Childs 2020](https://www.frontiersin.org/articles/10.3389/fendo.2020.00656/full) also for review of regulation of gonadotroph protein translation [here](https://www.sciencedirect.com/science/article/pii/S0303720713003699?casa_token=CN2PgyIZt0AAAAAA:URv7GHgRFGh_TmdRm5fRibj13KXTEOd_CYwX1ap1b_nUmoZXc1NuPR-jHmMmA2T2kJxz8s5vqg) so there is an emergence of evidence suggesting posttranscriptional regulation is imp in the pituitary e.g. musashi as well
+
+Discrepancy between CRH-R1 mRNA and protein in the pituitary [Nikodemova 2002](https://doi.org/10.1076/apab.110.1.123.901)
+
+[[Pars tuberalis#^2568a0]]
+
+mRNA (ISH) and protein (IR) for GH and PRL don't always correlate: "The extent of the hybridisation signal varied from cell to cell and the signal intensities for the mRNAs were not always comparable with the immunoreactivities for their products. That is to say, some cells expressed the mRNA and not its protein product. Others had very weak hybridisation signals but had stronger immunoreactivity for the protein." [Sanno 1996](http://dx.doi.org/10.1136/mp.49.1.M57)

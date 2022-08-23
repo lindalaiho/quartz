@@ -1,0 +1,1 @@
+We know from the [pancreas](https://www.frontiersin.org/articles/10.3389/fendo.2020.619150/full) that dysregulation of paracrine interactions in the organ contribute to diabetes. But we don't really know if this is true for the hormone-secreting cells in the pituitary?
